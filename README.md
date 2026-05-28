@@ -23,6 +23,9 @@ It covers all six CSF functions: Govern, Identify, Protect, Detect, Respond, and
 ## 📜 License
 MIT License — free to use and adapt.
 
+## 🙌 Credits
+Created by **Bhanu Gurram Prakash** as part of AppSec portfolio work.
+
 ---
 
 ### Repo Topics
